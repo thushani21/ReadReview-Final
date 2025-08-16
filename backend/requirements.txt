@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pymupdf
+language-tool-python
+textstat
+textblob
+sentence-transformers
+scikit-learn
+pandas
+python-multipart
+gunicorn
+whitenoise
+

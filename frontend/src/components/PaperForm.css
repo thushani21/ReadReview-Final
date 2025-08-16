@@ -1,0 +1,113 @@
+/* .form-title {
+    text-align: center;
+    font-size: 1.6rem;
+    font-weight: 700;
+    margin-bottom: 0.5rem;
+  }
+  
+  .form-subtitle {
+    text-align: center;
+    font-size: 1rem;
+    color: #555;
+    margin-bottom: 1.5rem;
+  }
+  
+  .drop-area {
+    border: 2px dashed #a5b4fc;
+    background-color: #f0f4ff;
+    padding: 2rem;
+    border-radius: 12px;
+    text-align: center;
+    cursor: pointer;
+    transition: background 0.3s ease;
+    margin-bottom: 1rem;
+  }
+  
+  .drop-area.highlight {
+    background-color: #e0e7ff;
+    border-color: #6366f1;
+  }
+  
+  .upload-label {
+    font-size: 1.1rem;
+    color: #6366f1;
+    font-weight: 500;
+    cursor: pointer;
+  }
+  
+  .upload-label span {
+    text-decoration: underline;
+  }
+  
+  .file-name {
+    text-align: center;
+    color: #333;
+    font-weight: 500;
+    margin-bottom: 1rem;
+  }
+   */
+
+   .form-container {
+    background: white;
+    padding: 2rem;
+    border-radius: 12px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.05);
+    max-width: 600px;
+    margin: 2rem auto;
+    text-align: center;
+  }
+  
+  .title {
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin-bottom: 0.5rem;
+  }
+  
+  .subtitle {
+    font-size: 1rem;
+    color: #555;
+    margin-bottom: 1.5rem;
+  }
+  
+  .drop-area {
+    border: 2px dashed #add6ff;
+    padding: 1.5rem;
+    border-radius: 8px;
+    margin-bottom: 1rem;
+    cursor: pointer;
+    background-color: #f5faff;
+  }
+  
+  .drop-area.highlight {
+    background-color: #e0f2ff;
+  }
+  
+  .upload-label {
+    color: #3b82f6;
+    font-weight: 600;
+    font-size: 1rem;
+    cursor: pointer;
+  }
+  
+  .file-name {
+    margin-bottom: 1rem;
+    font-weight: 500;
+    color: #333;
+  }
+  
+  .submit-button {
+    background-color: #2563eb;
+    color: white;
+    border: none;
+    padding: 0.75rem 1.5rem;
+    border-radius: 6px;
+    font-weight: 600;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: 0.3s;
+  }
+  
+  .submit-button:hover {
+    background-color: #1d4ed8;
+  }
+  
