@@ -13,13 +13,11 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test",
-    "heroku-postbuild": "npm run build",
-    "serve": "serve -s build"
+    "test": "react-scripts test"
   },
-
-  "engines": { "node": ">=18" }, 
-  
+  "engines": {
+    "node": ">=18"
+  },
   "eslintConfig": {
     "extends": [
       "react-app",

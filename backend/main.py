@@ -12,8 +12,6 @@ import pandas as pd
 import numpy as np
 import shutil
 import os
-import torch
-
 
 app = FastAPI()
 
