@@ -7,7 +7,8 @@ textblob
 sentence-transformers
 scikit-learn
 pandas
+requests
 python-multipart
 gunicorn
 whitenoise
-
+torch
